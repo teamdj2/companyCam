@@ -11,7 +11,9 @@
         "typescript": "^5.2.2"
     },
     "scripts": {
-        "build": "tsc --build"
+        "build": "tsc --build",
+    "start": "tsc --build && node dist/express.js"
+
     },
     "devDependencies": {
         "@types/express": "^4.17.20",
