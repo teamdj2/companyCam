@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+companycamPostBody
+certificate-csr.pem
+certificate.pem
+private-key.pem
