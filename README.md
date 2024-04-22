@@ -1,4 +1,3 @@
-﻿# HubSpotWorkflowAutomation
 
 ENV FILE STRUCTURE:
 
